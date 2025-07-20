@@ -8,10 +8,6 @@ I'm currently an undergraduate student at **Singapore Institute of Technology (S
 
 My current project involves designing and deploying a fully autonomous robotic system using the **LIMO robot platform** and **ROS1 (Melodic)**. I’m integrating the full **ROS Navigation Stack** along with **RTAB-Map** for real-time 3D SLAM, mapping, and adaptive path planning in custom-built arenas inspired by real-world environments.
 
-This project is part of a systems engineering course where I apply concepts from the **Systems Engineering Body of Knowledge (SEBoK)**, including:
-- System Synthesis
-- Deployment & Use
-- Product and Service Life Management
 
 ---
 
